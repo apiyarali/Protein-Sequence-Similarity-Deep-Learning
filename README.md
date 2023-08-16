@@ -1,2 +1,2 @@
-# Protein-Sequence-Similarity---Deep-Learning
-Utilizing advanced deep learning techniques and target encoders from DeepPurpose, this project encodes UniProt-derived protein sequence data. Subsequent model training computes pairwise similarity scores for amino acid sequences, crucial in identifying drug targets and refining design for minimized off-target effects.
+# Protein Sequence Similarity - Deep Learning
+Utilizing advanced deep learning techniques while utilizing the target encoders within the DeepPurpose library. The primary objective is to encode protein sequence data sourced from UniProt and subsequently train a model to compute pairwise similarity scores for protein amino acid sequences. The computation of protein pairwise similarity sequences is essential for the identification and characterization of drug targets. Moreover, it facilitates the refinement of drug design processes and the mitigation of off-target effects.
